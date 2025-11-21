@@ -224,7 +224,8 @@ a **real-economy operating system**.
 ## 📬 Contact
 
 - **Foundation:** TrionChain Foundation  
-- **Email:** info@trionchain.com  
+- **Email:** foundation@trionchain.org  
+- **Website:** https://trionchain.org  
 - **GitHub:** https://github.com/TrionChainFoundation  
 - **Whitepaper:** https://github.com/TrionChainFoundation/trionchain-whitepaper  
 
