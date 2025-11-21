@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3aa0c0cf-09ca-49a3-a62b-ccd46fe0fe09"
-       alt="TrionChain Lightpaper Header"
-       width="100%" />
+  <img src="assets/header.png" alt="TrionChain Lightpaper Header" width="100%" />
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen" />
